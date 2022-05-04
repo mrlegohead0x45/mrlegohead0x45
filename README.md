@@ -1,5 +1,8 @@
 Hi, I'm mrlegohead0x45
 
+I have GCSEs from 9/5 to 23/6, so I will be trying to focus on revision etc. rather than programming during this period,
+so I may respond less frequently, if at all.
+
 I mainly write in Python, and sometimes C++ and I would like to learn Rust.
 I am also interested in cybersecurity and sometimes I participate in CTFs
 (although I am not yet in a team - if you want to invite me, feel free, I'm on [CTFtime](https://ctftime.org/user/108672)).
